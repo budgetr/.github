@@ -1,9 +1,7 @@
 # budgetr organization profile
 
-Public copy: `profile/README.md`. Current assets:
+Public introduction: `profile/README.md`. Current avatar: `profile/assets/avatar-v3.png`. Current banner: `profile/assets/banner-v3.png`.
 
-- `profile/assets/logo-v2.png` — standalone transparent logo.
-- `profile/assets/avatar-v2.png` — organization avatar on warm off-white.
-- `profile/assets/banner-v2.png` — wide banner.
+Created using built-in image generation: a cream wallet with three sage, yellow, and terracotta budget-category tabs on forest green. The matching banner reads “Give every expense a place.” Earlier assets are retained as previous explorations.
 
-Created with built-in image generation: a dark-ink envelope/token b symbol with a mint accent, paired with “A little planning. More living.” The earlier peach/plum assets remain as previous explorations. Upload the avatar separately in organization settings.
+Upload the avatar separately in organization settings.
