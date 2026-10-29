@@ -1,9 +1,9 @@
 # budgetr organization profile
 
-- [`profile/README.md`](profile/README.md) — public introduction.
-- [`profile/assets/avatar.png`](profile/assets/avatar.png) — square avatar.
-- [`profile/assets/banner.png`](profile/assets/banner.png) — README banner.
+Public copy: `profile/README.md`. Current assets:
 
-Created with built-in image generation: a peach and mint compartmental b monogram on plum, with a matching banner reading “Make room for what matters.” and “Everyday budgeting.”
+- `profile/assets/logo-v2.png` — standalone transparent logo.
+- `profile/assets/avatar-v2.png` — organization avatar on warm off-white.
+- `profile/assets/banner-v2.png` — wide banner.
 
-Upload the avatar separately in GitHub organization settings.
+Created with built-in image generation: a dark-ink envelope/token b symbol with a mint accent, paired with “A little planning. More living.” The earlier peach/plum assets remain as previous explorations. Upload the avatar separately in organization settings.

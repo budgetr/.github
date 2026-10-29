@@ -1,8 +1,8 @@
-![budgetr — Make room for what matters.](https://raw.githubusercontent.com/budgetr/.github/main/profile/assets/banner.png)
+![budgetr — A little planning. More living.](https://raw.githubusercontent.com/budgetr/.github/main/profile/assets/banner-v2.png)
 
 # budgetr
 
-**Make room for what matters.**
+**A little planning. More living.**
 
 budgetr is a budgeting application built around a simple idea: making everyday budgeting easier to approach.
 
